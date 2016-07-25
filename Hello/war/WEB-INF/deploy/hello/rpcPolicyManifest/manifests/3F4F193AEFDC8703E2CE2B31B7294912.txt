@@ -1,0 +1,2 @@
+serviceClass: net.ddns.campacid.hello.client.GreetingService
+path: 45DB6AABCEA90411F5785A1188C5979B.gwt.rpc

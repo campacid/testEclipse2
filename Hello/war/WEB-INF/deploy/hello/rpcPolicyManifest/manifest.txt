@@ -1,0 +1,3 @@
+# Module hello
+# RPC service class, partial path of RPC policy file
+net.ddns.campacid.hello.client.GreetingService, 45DB6AABCEA90411F5785A1188C5979B.gwt.rpc
